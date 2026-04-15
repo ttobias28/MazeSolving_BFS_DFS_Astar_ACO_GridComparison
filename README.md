@@ -22,6 +22,8 @@ This project studies the problem of finding the shortest path from a start cell 
 ---
 ## How to Run this Project
 
+Required Dependencies: in terminal, do pip install pandas matplotlib
+
 ---
 ## GenAI Usage Disclosure
 This project utilized Generative AI tools (Gemini) in the following capacities: 
