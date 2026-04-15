@@ -1,2 +1,3 @@
-# Grid Maze Pathfinding: BFS, DFS, A*, and ACO Comparison
+## Grid Maze Pathfinding: BFS, DFS, A*, and ACO Comparison
 ---
+# Problem Description:
