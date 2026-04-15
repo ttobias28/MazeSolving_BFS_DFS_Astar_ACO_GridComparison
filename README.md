@@ -18,6 +18,7 @@ This project studies the problem of finding the shortest path from a start cell 
 - **Ant Colony Optimization (ACO)** -- a nature-inspired algorithm that simulates ant foraging behavior using pheromone trails to discover high-quality paths over multiple iterations
 ---
 ## Dataset(s) Used
+There are no traditional datasets used. The datasets consist of synthetically generated grid-based mazes created during runtime.
 
 ---
 ## How to Run this Project
