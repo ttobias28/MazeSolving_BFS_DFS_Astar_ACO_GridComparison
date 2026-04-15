@@ -26,7 +26,7 @@ This project studies the problem of finding the shortest path from a start cell 
 ## GenAI Usage Disclosure
 This project utilized Generative AI tools (Gemini) in the following capacities: 
 
-• Assistance in debugging memory management issues 
-• Refining the structure of the report
+- **Assistance in debugging memory management issues 
+- **Refining the structure of the report
 
 Note: All core algorithmic logic and experimental analysis were implemented and verified by the team members. 
