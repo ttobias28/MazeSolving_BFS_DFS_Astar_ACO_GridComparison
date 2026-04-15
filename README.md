@@ -2,9 +2,9 @@
 
 ## Team Members
 
-- Noble Carpenter (jncarpente42)
-- Teagan Tobias (ttobias42)
-- Christian Winchester (cwinchest43)
+- Noble Carpenter ([@NobleCarpenter](https://github.com/NobleCarpenter))
+- Teagan Tobias ([@ttobias28](https://github.com/ttobias28))
+- Christian Winchester ([@ChristianWinchester04](https://github.com/ChristianWinchester04))
   
 ---
 ## Problem Description:
