@@ -22,11 +22,17 @@ This project studies the problem of finding the shortest path from a start cell 
 ---
 ## How to Run this Project
 
-Required Dependencies: in terminal, do pip install pandas matplotlib
+**Required Dependencies**: in terminal, do pip install pandas matplotlib. You must already have a recent version of Python downloaded.
+
+**How to Run**:
+1. From inside the source folder that holds all of the code files, open the terminal and run: python ExperimentRunner.py
+2. From inside the source folder that holds all of the code files, open the terminal and run: python PlotResults.py
+
+Step 1 will generate mazes and run BFS, DFS, A*, and ACO. Step 2 will create graphs.
 
 ---
 ## GenAI Usage Disclosure
-This project utilized Generative AI tools (Gemini) in the following capacities: 
+This project utilized Generative AI tools in the following capacities: 
 
 - Assistance in debugging memory management issues 
 - Refining the structure of the report
