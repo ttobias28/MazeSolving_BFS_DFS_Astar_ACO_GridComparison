@@ -23,13 +23,11 @@ There are no traditional, external datasets used. Instead, mazes were procedural
 ---
 ## How to Run this Project
 
-**Required Dependencies**: in terminal, do pip install pandas matplotlib. You must already have a recent version of Python downloaded.
+1. Clone the repository and install dependencies: pip install pandas matplotlib
+2. Run experiments: python ExperimentRunner.py (writes results/results_raw.csv)
+3. Generate graphs: python PlotResults.py (writes graphs/*.png)
 
-**How to Run**:
-1. From inside the source folder that holds all of the code files, open the terminal and run: python ExperimentRunner.py
-2. From inside the source folder that holds all of the code files, open the terminal and run: python PlotResults.py
-
-Step 1 will generate mazes and run BFS, DFS, A*, and ACO. Step 2 will create graphs.
+To install the dependencies, you may work from your computer's terminal or the integrated terminal in the source folder that contains all code files. To run each code file, it is best to run it in the terminal of the source folder.
 
 ---
 ## GenAI Usage Disclosure
