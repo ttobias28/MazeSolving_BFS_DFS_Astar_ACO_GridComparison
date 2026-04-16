@@ -34,6 +34,6 @@ To install the dependencies, you may work from your computer's terminal or the i
 This project utilized Generative AI tools in the following capacities: 
 
 - Assistance in debugging memory management issues 
-- Refining the structure of the report
+- Drafting and refining the structure of the report and prose
 
-Note: All core algorithmic logic and experimental analysis were implemented and verified by the team members. 
+Note: All core algorithmic logic and experimental analysis were implemented and verified by the team members. No AI tools were used to generate or modify experimental data.
