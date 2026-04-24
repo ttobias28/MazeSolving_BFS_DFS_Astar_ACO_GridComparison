@@ -4,6 +4,7 @@ Date Created: 04/15/2026
 Filename: ExperimentRunner.py
 Purpose: Runs experiments comparing BFS, DFS, A*, and ACO on randomly generated mazes of 
         varying sizes and densities. Results are saved to a CSV file for analysis.
+To run (in terminal): python ExperimentRunner.py 
 """
  
 import csv
