@@ -3,6 +3,7 @@ Created By: Noble Carpenter, Teagan Tobias, Christian Winchester
 Date Created: 04/15/2026
 Filename: PlotResults.py
 Purpose: Reads results_raw.csv and saves comparison graphs to ../graphs/.
+To run (in terminal): python PlotResults.py 
 """
  
 import os
